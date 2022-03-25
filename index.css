@@ -1,0 +1,11 @@
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+.knopka {
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid gray;
+  background-color: darkorange;
+  border-radius: 5px;
+}
